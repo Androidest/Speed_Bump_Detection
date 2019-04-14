@@ -1,0 +1,21 @@
+﻿  yolo_console_dll.cpp
+c:\users\ken\desktop\darknet-master\src\yolo_v2_class.hpp(59): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ken\desktop\darknet-master\src\yolo_v2_class.hpp(82): warning C4244: '*=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_v2_class.hpp(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_v2_class.hpp(541): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_v2_class.hpp(564): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_v2_class.hpp(566): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_v2_class.hpp(582): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(67): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(77): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(88): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ken\desktop\darknet-master\src\yolo_console_dll.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  yolo_console_dll.vcxproj -> C:\Users\Ken\Desktop\darknet-master\build\darknet\x64\yolo_console_dll.exe
