@@ -1,0 +1,15 @@
+VS 2017 项目文件：darknet-master\build\darknet\yolo_console_dll.sln
+
+去畸变和鸟瞰使用的图  darknet-master\build\darknet\x64\chessboard
+
+权重：darknet-master\build\darknet\x64\backup\yolo-obj_final.weights
+
+可执行文件：darknet\x64\yolo_console_dll.exe 运行无需参数
+
+用于给 yolo_console_dll.exe 打开的视频 darknet-master\build\darknet\x64\a.mp4
+
+其他待测视频：darknet-master\build\darknet\x64\video
+
+代码： darknet-master\src\yolo_console_dll.cpp
+
+cfg文件：darknet-master\build\darknet\x64\yolo-obj.cfg
